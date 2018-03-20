@@ -17,6 +17,8 @@ public class ProvaGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Buenas GitHub!!");
+        System.out.println("actualizació GitHub!");
+        
     }
     
 }
